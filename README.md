@@ -7,37 +7,37 @@ A collection of custom shaders and visual effects built in Unity, demonstrating 
 ## 📸 Preview
 
 ### ✨ Highlight Shader
-![Highlight Shader](<Assets/images/Highlight.jpg>)
+![Highlight Shader](<Assets/images/Highlight.png>)
 > Làm nổi bật object bằng cách tăng độ sáng, nổi bật phần viền của obj.
 
 ---
 
 ### 🔍 X-Ray Shader
-![X-Ray Shader](<Assets/images/Xray.jpg>)
+![X-Ray Shader](<Assets/images/Xray.png>)
 > Hiển thị object xuyên qua các bề mặt khác bằng cách vô hiệu hóa depth test, tạo hiệu ứng "nhìn xuyên tường" — thường dùng để theo dõi nhân vật hoặc vật phẩm bị che khuất.
 
 ---
 
 ### 🟦 Pixel Shader
-![Pixel Shader](<Assets/images/Pixel.jpg>)
+![Pixel Shader](<Assets/images/Pixel.png>)
 > Pixelate hình ảnh bằng cách giảm độ phân giải render theo từng block pixel, tạo phong cách retro/8-bit đặc trưng.
 
 ---
 
 ### 🫧 Liquid Shader
-![Liquid Shader](<Assets/images/Liquid.jpg>)
+![Liquid Shader](<Assets/images/Liquid.png>)
 > Mô phỏng chất lỏng bên trong một vật thể bằng cách kết hợp vertex animation và noise texture, tạo hiệu ứng sóng sánh và mực chất lỏng dao động theo trọng lực.
 
 ---
 
 ### 🖥️ Fullscreen Pixel
-![Fullscreen Pixel](<Assets/images/FullscreenPixelation.jpg>)
+![Fullscreen Pixel](<Assets/images/FullscreenPixelation.png>)
 > Post-processing effect pixelate toàn màn hình, giảm độ phân giải của toàn bộ khung hình theo thời gian thực — tạo cảm giác nhìn qua màn hình cũ hoặc hiệu ứng transition độc đáo.
 
 ---
 
 ### 🌫️ Fullscreen Dithering
-![Fullscreen Dithering](<Assets/images/FullscreenDithering.jpg>)
+![Fullscreen Dithering](<Assets/images/FullscreenDithering.png>)
 > Post-processing effect áp dụng thuật toán dithering lên toàn màn hình, chuyển đổi hình ảnh thành các pattern chấm hoặc noise có kiểm soát — phong cách in ấn retro hoặc màn hình đơn sắc.
 
 ---
