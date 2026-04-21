@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 44c830e6e654c4e2a96043c0c77f9696
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 372864
+  packageName: Get Started with Shader Graph | Complete Project
+  packageVersion: 1.0
+  assetPath: Assets/_GetStartedWithShaderGraph/Extra Resources/Environment Assets/Animations/Ground.controller
+  uploadId: 900518

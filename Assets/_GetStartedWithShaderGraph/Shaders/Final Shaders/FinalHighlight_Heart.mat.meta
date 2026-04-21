@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 63823d44da0084419b82eb6891592568
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 372864
+  packageName: Get Started with Shader Graph | Complete Project
+  packageVersion: 1.0
+  assetPath: Assets/_GetStartedWithShaderGraph/Shaders/Final Shaders/FinalHighlight_Heart.mat
+  uploadId: 900518

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5b59a3babc1a0264f9a031cd36d8eec4
+timeCreated: 1460715187
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 372864
+  packageName: Get Started with Shader Graph | Complete Project
+  packageVersion: 1.0
+  assetPath: Assets/_GetStartedWithShaderGraph/Extra Resources/Environment Assets/Materials/Magazines.mat
+  uploadId: 900518

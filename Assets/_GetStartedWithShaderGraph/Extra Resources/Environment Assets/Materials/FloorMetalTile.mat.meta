@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d5c39045660bc764a8ef604888042b5b
+timeCreated: 1460125725
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 372864
+  packageName: Get Started with Shader Graph | Complete Project
+  packageVersion: 1.0
+  assetPath: Assets/_GetStartedWithShaderGraph/Extra Resources/Environment Assets/Materials/FloorMetalTile.mat
+  uploadId: 900518

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ca130c123aa674f48bd5de8d3f8784b7
+timeCreated: 1459869128
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 372864
+  packageName: Get Started with Shader Graph | Complete Project
+  packageVersion: 1.0
+  assetPath: Assets/_GetStartedWithShaderGraph/Extra Resources/Environment Assets/Materials/Bollard.mat
+  uploadId: 900518

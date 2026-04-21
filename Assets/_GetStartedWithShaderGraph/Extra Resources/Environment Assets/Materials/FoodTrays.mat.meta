@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 61678ebbb8fa54046afc6d3f0232531c
+timeCreated: 1460125726
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 372864
+  packageName: Get Started with Shader Graph | Complete Project
+  packageVersion: 1.0
+  assetPath: Assets/_GetStartedWithShaderGraph/Extra Resources/Environment Assets/Materials/FoodTrays.mat
+  uploadId: 900518

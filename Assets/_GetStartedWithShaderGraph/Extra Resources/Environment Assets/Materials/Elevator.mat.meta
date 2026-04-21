@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 46e414f0c99a5a84ba321fc49d6fb413
+timeCreated: 1469798020
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 372864
+  packageName: Get Started with Shader Graph | Complete Project
+  packageVersion: 1.0
+  assetPath: Assets/_GetStartedWithShaderGraph/Extra Resources/Environment Assets/Materials/Elevator.mat
+  uploadId: 900518

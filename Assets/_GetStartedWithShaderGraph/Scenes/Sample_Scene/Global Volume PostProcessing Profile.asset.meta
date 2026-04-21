@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ec2f7be1317f7ba4d8cdec580aa395e4
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 372864
+  packageName: Get Started with Shader Graph | Complete Project
+  packageVersion: 1.0
+  assetPath: Assets/_GetStartedWithShaderGraph/Scenes/Sample_Scene/Global Volume
+    PostProcessing Profile.asset
+  uploadId: 900518

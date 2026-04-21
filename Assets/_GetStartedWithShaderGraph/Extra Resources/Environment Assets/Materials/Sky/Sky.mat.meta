@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f7b4af0bb5c5a6f44a46014c64c7280d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 372864
+  packageName: Get Started with Shader Graph | Complete Project
+  packageVersion: 1.0
+  assetPath: Assets/_GetStartedWithShaderGraph/Extra Resources/Environment Assets/Materials/Sky/Sky.mat
+  uploadId: 900518

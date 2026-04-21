@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 268ea185a9855d647be0c7af6b9c4bef
+timeCreated: 1460715187
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 372864
+  packageName: Get Started with Shader Graph | Complete Project
+  packageVersion: 1.0
+  assetPath: Assets/_GetStartedWithShaderGraph/Extra Resources/Environment Assets/Materials/SecurityGate.mat
+  uploadId: 900518

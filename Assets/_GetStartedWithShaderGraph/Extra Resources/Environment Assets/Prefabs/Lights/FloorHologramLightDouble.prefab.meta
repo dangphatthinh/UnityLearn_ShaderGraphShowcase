@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0f13404088d040a46a6a7c949f60aa7f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 372864
+  packageName: Get Started with Shader Graph | Complete Project
+  packageVersion: 1.0
+  assetPath: Assets/_GetStartedWithShaderGraph/Extra Resources/Environment Assets/Prefabs/Lights/FloorHologramLightDouble.prefab
+  uploadId: 900518

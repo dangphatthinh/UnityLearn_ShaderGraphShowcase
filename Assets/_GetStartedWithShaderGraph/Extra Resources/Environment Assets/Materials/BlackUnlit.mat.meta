@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 18b73e95c08e7624d88d2200187d9cb3
+timeCreated: 1459869127
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 372864
+  packageName: Get Started with Shader Graph | Complete Project
+  packageVersion: 1.0
+  assetPath: Assets/_GetStartedWithShaderGraph/Extra Resources/Environment Assets/Materials/BlackUnlit.mat
+  uploadId: 900518

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e59530a749010fc4fb744508277ac143
+timeCreated: 1460125725
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 372864
+  packageName: Get Started with Shader Graph | Complete Project
+  packageVersion: 1.0
+  assetPath: Assets/_GetStartedWithShaderGraph/Extra Resources/Environment Assets/Materials/MarketWallMetal.mat
+  uploadId: 900518

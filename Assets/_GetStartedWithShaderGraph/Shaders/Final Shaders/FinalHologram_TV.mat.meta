@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 95ca4b909fb7d48bebad7a3da923571e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 372864
+  packageName: Get Started with Shader Graph | Complete Project
+  packageVersion: 1.0
+  assetPath: Assets/_GetStartedWithShaderGraph/Shaders/Final Shaders/FinalHologram_TV.mat
+  uploadId: 900518

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 841101597fac029489d23f6adc912343
+timeCreated: 1460125725
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 372864
+  packageName: Get Started with Shader Graph | Complete Project
+  packageVersion: 1.0
+  assetPath: Assets/_GetStartedWithShaderGraph/Extra Resources/Environment Assets/Materials/WallTileStone.mat
+  uploadId: 900518

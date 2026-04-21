@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 364a48ba02c665f4688dacc733734f05
+timeCreated: 1462549866
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 372864
+  packageName: Get Started with Shader Graph | Complete Project
+  packageVersion: 1.0
+  assetPath: Assets/_GetStartedWithShaderGraph/Extra Resources/Environment Assets/Materials/Slerp.mat
+  uploadId: 900518

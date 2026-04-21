@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b7f824ae9841e4e4db6cd79704c517b2
+timeCreated: 1469798019
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 372864
+  packageName: Get Started with Shader Graph | Complete Project
+  packageVersion: 1.0
+  assetPath: Assets/_GetStartedWithShaderGraph/Extra Resources/Environment Assets/Materials/TableOval.mat
+  uploadId: 900518

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 895e35e06e2d8fc448bb48e11a72ffb8
+timeCreated: 1460125726
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 372864
+  packageName: Get Started with Shader Graph | Complete Project
+  packageVersion: 1.0
+  assetPath: Assets/_GetStartedWithShaderGraph/Extra Resources/Environment Assets/Materials/Aircon.mat
+  uploadId: 900518

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8c9652377256a5d41bde897da527a3a2
+timeCreated: 1462451833
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 372864
+  packageName: Get Started with Shader Graph | Complete Project
+  packageVersion: 1.0
+  assetPath: Assets/_GetStartedWithShaderGraph/Extra Resources/Environment Assets/Materials/PriceTags.mat
+  uploadId: 900518

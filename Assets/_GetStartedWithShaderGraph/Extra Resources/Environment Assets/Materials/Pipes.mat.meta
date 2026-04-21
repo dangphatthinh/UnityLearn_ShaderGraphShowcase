@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cf64d91bf9d60fa46803c50a585aff08
+timeCreated: 1460125725
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 372864
+  packageName: Get Started with Shader Graph | Complete Project
+  packageVersion: 1.0
+  assetPath: Assets/_GetStartedWithShaderGraph/Extra Resources/Environment Assets/Materials/Pipes.mat
+  uploadId: 900518

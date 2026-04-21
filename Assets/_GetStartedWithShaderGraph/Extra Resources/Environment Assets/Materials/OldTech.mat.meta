@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0388f2d5fd84c014dbb18d851a95c1bf
+timeCreated: 1462441599
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 372864
+  packageName: Get Started with Shader Graph | Complete Project
+  packageVersion: 1.0
+  assetPath: Assets/_GetStartedWithShaderGraph/Extra Resources/Environment Assets/Materials/OldTech.mat
+  uploadId: 900518
